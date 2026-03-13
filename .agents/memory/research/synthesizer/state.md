@@ -30,8 +30,13 @@ The business operations market has reached a critical "Agentic" inflection point
 4.  **PRIORITY 4**: Target the SMB market with low-friction, affordable agentic solutions.
 
 ## 6. Next Steps
-- [ ] Initialize GitHub issues for the above recommendations.
-- [ ] Commence prototype development for the "Market Research Agent".
+- [x] Initialize GitHub issues for the above recommendations.
+  - [Issue #1: Functional Agents Focus](https://github.com/kokevidaurre/gemini-first-run/issues/1)
+  - [Issue #2: Prototype Market Research Agent](https://github.com/kokevidaurre/gemini-first-run/issues/2)
+  - [Issue #3: Verification/Governance Niche](https://github.com/kokevidaurre/gemini-first-run/issues/3)
+  - [Issue #4: SMB Market Targeting](https://github.com/kokevidaurre/gemini-first-run/issues/4)
+- [x] Commence prototype development for the "Market Research Agent".
+  - [PR #5: Draft Specification for Market Research Agent](https://github.com/kokevidaurre/gemini-first-run/pull/5)
 - [ ] Draft a research plan for the "Verification/Governance" niche.
 
 ---
